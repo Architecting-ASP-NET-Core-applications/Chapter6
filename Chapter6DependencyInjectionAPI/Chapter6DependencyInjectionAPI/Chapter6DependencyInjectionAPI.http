@@ -1,0 +1,6 @@
+@Chapter6DependencyInjectionAPI_HostAddress = http://localhost:5104
+
+GET {{Chapter6DependencyInjectionAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
