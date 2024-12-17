@@ -1,0 +1,6 @@
+@Chapter6CustomMiddleware_HostAddress = http://localhost:5185
+
+GET {{Chapter6CustomMiddleware_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
